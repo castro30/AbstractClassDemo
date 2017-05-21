@@ -1,0 +1,6 @@
+C:\Temp\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+C:\Temp\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+C:\Temp\AbstractClassDemo\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+C:\Temp\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.csprojResolveAssemblyReference.cache
+C:\Temp\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+C:\Temp\AbstractClassDemo\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb
